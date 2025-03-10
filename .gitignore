@@ -1,0 +1,25 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment variable files
+.env
+
+# Ignore specific files
+secret.txt
+config.json
+
+# Ignore all .DS_Store files (common on macOS)
+.DS_Store
+
+# Ignore all .class files (Java compiled files)
+*.class
+
+# Ignore all .exe files (Windows executables)
+*.exe
